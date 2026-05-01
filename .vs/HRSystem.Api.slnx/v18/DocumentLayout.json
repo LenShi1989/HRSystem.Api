@@ -79,8 +79,7 @@
               "RelativeToolTip": "HRSystem.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-01T12:48:07.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:48:07.658Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\PayrollsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:46:01.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:46:01.408Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\AttendancesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:43:48.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:43:48.957Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\PositionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:39:54.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:39:54.191Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAIwDwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:37:01.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:37:01.514Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:35:42.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:35:42.381Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\LeaveRequestsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:44:33.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:44:33.311Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:39:11.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:39:11.512Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "HRSystem.Api\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T12:37:48.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T12:37:48.626Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "HRSystem.Api\\HRSystem.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-01T06:39:40.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T06:39:40.485Z"
             }
           ]
         }
