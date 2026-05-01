@@ -27,7 +27,6 @@ C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\staticw
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\HRSystem.0F4E3A31.Up2Date
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\HRSystem.Api.dll
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\refint\HRSystem.Api.dll
@@ -150,3 +149,4 @@ C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\bin\Debug\net8.0\runtime
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\HRSystem.Api.sourcelink.json
+C:\Users\Len\Documents\GitHub\HRSystem.Api\HRSystem.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
