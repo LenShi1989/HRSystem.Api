@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="HRSystem.Api/HRSystem.Api.csproj" />
+  <Project Path="UnitTest/UnitTest.csproj" Id="8f905529-04cf-4286-bde2-9cf06ea857bf" />
 </Solution>
