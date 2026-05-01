@@ -43,7 +43,12 @@ builder.Services.AddAuthorization();
 // ── CORS ─────────────────────────────────────────────────────
 builder.Services.AddCors(options =>
     options.AddPolicy("AllowVue", policy =>
-        policy.WithOrigins("http://localhost:5173", "http://localhost:3000", "http://localhost:5000")
+        policy.WithOrigins(
+            "http://localhost:5173", 
+            "http://localhost:3000", 
+            "http://localhost:5000",
+            "http://192.168.0.100:5173"
+            )
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials()));
